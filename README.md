@@ -7,23 +7,25 @@
 - 現在、北関東学院　WEBプログラミングデザイン科に在籍
 
 ## ざっくり学習期間（R3.10.02現在）
-  - PHPは書籍による独学も含む（いきなりはじめるPHP/PHPの絵本）
-  - HTML/CSSなど学習期間が被るものアリ
-  
+
 | PHP7 | MySQL | JS | HTML5 | CSS3 |
 |:---:|:---:|:---:|:---:|:---:|
 | 約3カ月 | 約2カ月 | 約2カ月 | 約2カ月 | 約2カ月 |
 
-- 使用ツール
-   - phpMyAdmin(5.1.0/2.11.11.3)
-   - XAMPP
-   - Visual Studio Code
-   - 前職で使用経験あり
-        - ビジネスチャット(slack/Chatwork/Skype)
-        - オフィスソフト（Word/Excel/PowerPoint/Open Office）、Googleスプレッドシート
-   - 趣味で使用
-        - 画像編集（Photoshop他）
-        - 動画編集（AviUtl）
+- PHPは書籍による独学も含む（いきなりはじめるPHP/PHPの絵本）
+- HTML/CSSなど学習期間が被るものアリ
+
+### 使用ツール
+- phpMyAdmin(5.1.0/2.11.11.3)
+- XAMPP
+- Visual Studio Code
+- 前職で使用経験あり
+  - ビジネスチャット(slack/Chatwork/Skype)
+  - オフィスソフト（Word/Excel/PowerPoint/Open Office）、Googleスプレッドシート
+- 趣味で使用
+  - 画像編集（Photoshop/MediBang Paint他）
+  - 動画編集（AviUtl）
+
 ## 経歴
 - プログラマを目指し、北関東学院（R3.05～R3.11卒業予定）
    - テストでは常に90点台と、優秀な成績およびドヤ顔を収める
